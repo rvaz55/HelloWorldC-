@@ -1,0 +1,7 @@
+#include <iostream>
+//This is my first C++ program!
+
+int main() {
+  std::cout << "In 1492 Columbus sailed the ocean blue.\n";
+  return 0;
+}
